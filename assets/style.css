@@ -35,6 +35,14 @@
     object-fit: cover;
 }
 
+.custom-card-2{
+    background-color: #525050;
+}
+
+.custom-card-3{
+    background-color: #666464;
+}
+
 /*  Footer */
 
 .pie{
