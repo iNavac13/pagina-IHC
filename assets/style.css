@@ -18,6 +18,29 @@
 
 .c-img{
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
     filter: brightness(0.6);
+}
+
+/* Seccion info */
+
+.custom-card{
+    color: #eaeaea;
+    padding: 5%;
+    text-align: justify;
+}
+
+.card-image{
+    width: 100%;
+    object-fit: cover;
+}
+
+/*  Footer */
+
+.pie{
+    background-color: black;
+}
+
+.txt-pie{
+    color: #b8b6b6;
 }
