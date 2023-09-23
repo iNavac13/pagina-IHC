@@ -26,7 +26,7 @@
 
 .custom-card{
     color: #eaeaea;
-    padding: 5%;
+    padding: 0%, 5% 0% 5%;
     text-align: justify;
 }
 
@@ -42,6 +42,20 @@
 .custom-card-3{
     background-color: #666464;
 }
+
+.btn-descarga {
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.btn-descarga:hover{
+    background-color: #FF1E56;
+}
+
 
 /*  Footer */
 
