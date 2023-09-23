@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+
+
+.boton-navbar{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.boton-navbar:hover{
+    color: #FF1E56;
+
+}
