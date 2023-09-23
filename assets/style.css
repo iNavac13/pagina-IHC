@@ -10,7 +10,7 @@
 
 }
 
-/* Imagenes carrusel */
+/* Imagenes carrusel - INDEX */
 
 .c-item{
     height: 15rem;
@@ -22,7 +22,12 @@
     filter: brightness(0.6);
 }
 
-/* Seccion info */
+/* Seccion info - INDEX*/
+
+.google-fonts{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #FF1E56;
+}
 
 .custom-card{
     color: #eaeaea;
@@ -66,3 +71,15 @@
 .txt-pie{
     color: #b8b6b6;
 }
+
+.link-footer{
+    text-decoration: underline;
+    color: #b8b6b6;
+}
+
+.link-footer:hover{
+    text-decoration: none;
+    color:#FF1E56;
+}
+
+/* */
