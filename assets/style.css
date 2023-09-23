@@ -1,7 +1,4 @@
-body{
-    background-color: gray;
-}
-
+/* Botones de la nav bar */
 
 .boton-navbar{
     color: #ffffff;
@@ -11,4 +8,16 @@ body{
 .boton-navbar:hover{
     color: #FF1E56;
 
+}
+
+/* Imagenes carrusel */
+
+.c-item{
+    height: 15rem;
+}
+
+.c-img{
+    width: 100%;
+    object-fit: contain;
+    filter: brightness(0.6);
 }
