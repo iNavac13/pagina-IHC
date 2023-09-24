@@ -62,6 +62,7 @@
 }
 
 
+
 /*  Footer */
 
 .pie{
@@ -82,4 +83,9 @@
     color:#FF1E56;
 }
 
-/* */
+/* Rangos */
+
+.pie-foto{
+    font-size: small;
+    font-style: italic;
+}
