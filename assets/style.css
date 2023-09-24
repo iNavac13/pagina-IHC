@@ -89,3 +89,15 @@
     font-size: small;
     font-style: italic;
 }
+
+/* Armas */
+
+.gun-box{
+    border: 1px solid white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.gun-text{
+    text-align: justify;
+}
