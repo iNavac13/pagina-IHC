@@ -102,3 +102,7 @@
 .gun-text{
     text-align: justify;
 }
+
+.active{
+    color:#FF1E56;
+}
